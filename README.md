@@ -58,7 +58,6 @@
 
 ### 5. 作成者
 iwacchi<br>
-&nbsp; Twitter &nbsp; ([@_iwacchi](https://twitter.com/_iwacchi))<br>
 &nbsp; Qiita &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ([@iwacchi](https://qiita.com/iwacchi))<br>
 &nbsp; GitHub &nbsp; ([github.com/iwacchi](https://github.com/iwacchi))<br>
 
